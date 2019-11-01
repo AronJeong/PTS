@@ -2,4 +2,4 @@
 CSE team project
 
 
-Excercise
+Exercise
